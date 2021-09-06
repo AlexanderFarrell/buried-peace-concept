@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Ice001</string>
+	<string>Ice002</string>
+	<string>Lunar</string>
+	<string>Ore001</string>
+	<string>Ore002</string>
+	<string>Ore003</string>
+	<string>Ore004</string>
+	<string>Ore005</string>
+	<string>Rock001</string>
+	<string>Rock002</string>
+	<string>Rock003</string>
+	<string>Rock004</string>
+	<string>RedRock001</string>
+</array>
+</plist>

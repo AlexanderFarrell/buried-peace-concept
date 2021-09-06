@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Chef</string>
+	<string>Cook</string>
+	<string>Soldier</string>
+	<string>Hunter</string>
+	<string>Scavenger</string>
+	<string>Rogue</string>
+	<string>Scout</string>
+	<string>Mercenary</string>
+	<string>Wise Man</string>
+	<string>Medicine Man</string>
+	<string>Engineer</string>
+	<string>Therapist</string>
+	<string>Farmer</string>
+	<string>Miner</string>
+	<string>Smelter</string>
+	<string>Programmer</string>
+	<string>Guardian</string>
+	<string>Economist</string>
+	<string>Trader</string>
+	<string>Store Clerk</string>
+	<string>Weapons Master</string>
+	<string>Mayor</string>
+	<string>Scientist</string>
+</array>
+</plist>

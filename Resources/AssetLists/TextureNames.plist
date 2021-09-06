@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sand001</key>
+	<string>Sand</string>
+	<key>Sand002</key>
+	<string>Sand</string>
+	<key>Sandstone001</key>
+	<string>Sandstone</string>
+	<key>Sandstone002</key>
+	<string>Sandstone</string>
+	<key>Sandstone003</key>
+	<string>Sandstone</string>
+	<key>SandstoneGravel001</key>
+	<string>Gravel</string>
+	<key>Ice001</key>
+	<string>Ice</string>
+	<key>Ice002</key>
+	<string>Snow</string>
+	<key>IceWall001</key>
+	<string>Ice</string>
+	<key>IceWall002</key>
+	<string>Ice</string>
+	<key>LavaRock001</key>
+	<string>Molten Rock</string>
+	<key>Basalt001</key>
+	<string>Basalt</string>
+	<key>Ash001</key>
+	<string>Ash</string>
+</dict>
+</plist>

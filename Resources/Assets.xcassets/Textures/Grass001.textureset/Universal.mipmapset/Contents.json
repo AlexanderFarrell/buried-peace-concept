@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "levels" : [
+    {
+      "filename" : "Grass001SD.png",
+      "mipmap-level" : "base"
+    }
+  ]
+}
